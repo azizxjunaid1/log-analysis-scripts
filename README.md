@@ -1,4 +1,4 @@
-# 🔐 SOC Log Analysis Scripts
+## 🔐 SOC Log Analysis Scripts
 
 > Python tools for security log analysis, threat detection, and IOC enrichment — built for SOC Analyst workflows.
 
